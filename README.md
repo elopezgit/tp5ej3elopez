@@ -1,6 +1,6 @@
 <!-- Project logo -->
 <div align ='center'>
-    <a href = 'https://tp5ej3elopez.netlify.app/'>
+    <a href = 'https://tp5ej3elopez.netlify.app/'> 
     <img src='./img/imgdombom.webp' alt = 'imagendombom' width = '300' />
     </a>
     <h1>Trabajo Practico N° 5</h1>
@@ -65,6 +65,7 @@ Readme del trabajo práctico número 5 de DOM y BOM
 
 ```bash
 git clone https://github.com/elopezgit/tp5ej3elopez.git
+
 ```
 
 
